@@ -1,13 +1,13 @@
-#Código de Conduta dos eventos
+# Código de Conduta dos eventos
 
 Participantes, palestrantes, representantes de empresas e pessoas voluntárias do evento precisam concordar com este código de conduta. A equipe organizadora vai reforçar que este código seja seguido durante todo o evento. Esperamos a cooperação de todas as partes para ajudar a garantir um ambiente seguro para qualquer pessoa.
-##Precisa de ajuda?
+## Precisa de ajuda?
 
 Você tem nossos contatos nos emails previamente enviados.
-##Versão rápida
+## Versão rápida
 
 Nossa conferência é dedicada a fornecer uma experiência livre de assédio para todas as pessoas, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela) ou escolhas de tecnologias. Não toleramos o assédio a participantes do evento, sob qualquer forma. Linguagem e imagens sexuais não são apropriadas em nenhum local, incluindo palestras, workshops, festas, Twitter e outras mídias on-line. Violações destas regras poderão causar expulsão do evento, sem restituição, a critério da equipe organizadora.
-##Versão mais longa
+## Versão mais longa
 
 Constituem assédio comentários verbais ofensivos relacionados a gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião, escolhas de tecnologias, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, stalking, fotografias ou filmagens constrangedoras, interrupção contínua das apresentações ou outros eventos, contato físico inadequado e atenção sexual indesejada.
 
