@@ -23,9 +23,9 @@ A organização estará disposta a auxiliar participantes a entrar em contato co
 
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops do evento, além de eventos sociais relacionados.
 
-Crédito e fonte original: http://2012.jsconf.us/#/about & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-Por favor, ajude a traduzir ou a melhorar: http://github.com/leftlogic/confcodeofconduct.com
-Esta obra está licenciada sob [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US)
+> Crédito e fonte original: http://2012.jsconf.us/#/about & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+> Por favor, ajude a traduzir ou a melhorar: http://github.com/leftlogic/confcodeofconduct.com
+> Esta obra está licenciada sob [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US)
 
 <!-- This project was bootstrapped with [Create Next App](https://github.com/segmentio/create-next-app).
 
