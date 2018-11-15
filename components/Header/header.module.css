@@ -1,3 +1,6 @@
 .header {
-    background: #ff0000;
+    background-image: linear-gradient(to right, #00d2ff, #3a7bd5);
+    color: var(--color);
+
+    height: 100vh;
 }
