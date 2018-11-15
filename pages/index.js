@@ -1,16 +1,13 @@
-import React from 'react'
-import Link from 'next/link'
+import React, { Fragment } from 'react'
 import Head from '../components/Head'
-import Nav from '../components/Nav'
-import About from '../components/About'
-import '../static/sass/style.scss'
+import Header from '../components/Header'
+import '../static/css/style.css'
 
 const Home = () => (
-  <div>
+  <Fragment>
     <Head title="Home" />
-    <Nav />
-    <About />
-  </div>
+    <Header />
+  </Fragment>
 )
 
 export default Home
