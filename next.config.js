@@ -1,4 +1,4 @@
-const withSass = require('@zeit/next-sass')
+const withCSS = require('@zeit/next-css')
 
 module.exports = {
   webpack: config => {
@@ -9,6 +9,10 @@ module.exports = {
   }
 }
 
-module.exports = withSass({
-    cssModules: true
+module.exports = withCSS({
+  cssModules: true,
+  cssLoaderOptions: {
+    importLoaders: 1,
+    localIdentName: "[local]___[hash:base64:5]",
+  }
 })
