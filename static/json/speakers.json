@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Adalto Junior",
+        "company": "GreenMile",
+        "talk": "Forms em React"
+    },
+    {
+        "name": "Francisco Wallisson",
+        "company": "OdontoSystem",
+        "talk": "PWA com Vue.js"
+    },
+    {
+        "name": "Igor Sousa",
+        "company": "Advance Comunicação",
+        "talk": "Pré-processadores CSS"
+    }
+]

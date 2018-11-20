@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Início",
+        "anchor": "#home"
+    },
+    {
+        "name": "Sobre",
+        "anchor": "#about"
+    },
+    {
+        "name": "Eventos",
+        "anchor": "#events"
+    },
+    {
+        "name": "Palestrantes",
+        "anchor": "#speakers"
+    }
+]

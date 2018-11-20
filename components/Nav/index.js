@@ -1,10 +1,14 @@
 import React from 'react'
-import Link from 'next/link'
 
-const Nav = (props) => (
+const Nav = ({ items = stars }) => (
   <nav>
     <ul>
-        { props.children }
+      { items.map((item) => {
+          <li key={ item.name }>
+            { item.name }
+          </li>
+        })
+      }
     </ul>
   </nav>
 )
