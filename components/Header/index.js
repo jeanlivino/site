@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import style from './header.module.css'
 import commonStyles from '../../static/css/style.css'
 import Nav from '../Nav'
