@@ -1,11 +1,13 @@
 import React, { Component } from 'react'
 import style from './header.module.css'
 import commonStyles from '../../static/css/style.css'
+import Nav from '../Nav'
+import navigation from '../../json/nav.json'
 
 const Header = () => (
     <header className={ style.header }>
         <div className={ commonStyles.container }>
-            <p>Aqui, a lista é importada.</p>
+            <Nav items={ navigation } />
         </div>
     </header>
 )
