@@ -58,7 +58,6 @@ body {
 }
 
 .container {
-  padding: 0 1rem;
+  padding: 0 2rem;
   flex-direction: column;
-  width: calc(100% - 30px);
 }
