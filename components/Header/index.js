@@ -5,7 +5,6 @@ import Nav from '../Nav'
 import navigation from '../../static/json/nav.json'
 
 class Header extends Component {
-
     render() {
         return (
             <header className={style.header}>
