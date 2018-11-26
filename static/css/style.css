@@ -61,3 +61,7 @@ body {
   padding: 0 2rem;
   flex-direction: column;
 }
+
+section {
+  min-height: 100vh;
+}
