@@ -1,5 +1,6 @@
-import Link from "next/link";
 import React from "react";
+import Link from "next/link";
+import style from './about.module.css'
 
 const About = () => (
   <div className='container'>
