@@ -1,6 +1,17 @@
 .header {
     background-image: linear-gradient(to right, #00d2ff, #3a7bd5);
-    color: var(--color);
+    color: var(--light);
+    height: var(--height-section);
+    padding: var(--padding-section);
+}
 
-    height: 100vh;
+.header__welcome {
+    font-size: 48px;
+    filter: drop-shadow(0 0 20px #000);
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
 }
