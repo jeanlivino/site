@@ -1,25 +1,14 @@
-.navigation {
-  height: 100vh;
-}
-
 .menu {
-  list-style: none;
-  padding-left: 0;
-
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  height: 100%;
+  display: none;
 }
 
 @media (min-width: 768px) {
   .menu {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    flex-direction: row;
+    list-style: none;
+    padding-left: 0;
+  
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
   }
-}
-
-.menu__item {
-  margin: 0 10px;
 }
