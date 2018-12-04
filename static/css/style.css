@@ -47,10 +47,19 @@
   padding: 0;
   font-family: 'FiraCode', sans-serif;
   font-weight: 400;
+  box-sizing: border-box;
 }
 
 :root {
-  --color: #fff;
+  --brand: #3A7BD2;
+  --light: #fff;
+  --padding-section: 40px 0;
+  --height-section: 100vh;
+}
+
+::selection {
+  background-color: #3A7BD2;
+  color: var(--light)
 }
 
 body {
@@ -58,8 +67,20 @@ body {
 }
 
 .container {
+  width: 100%;
+  max-width: 1200px;
   padding: 0 2rem;
-  flex-direction: column;
+  margin: 0 auto;
+}
+
+.container--flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container--flex--spaced {
+  justify-content: space-between;
 }
 
 section {
