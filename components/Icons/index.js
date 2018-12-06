@@ -1,7 +1,7 @@
 import React from 'react'
 import style from './icons.module.css'
 
-const Logo = ({ color = "#fff" }) => (
+export const Logo = ({ color = "#fff" }) => (
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88.3 88.3" fill={ color } className={ style.logo }>
   <g id="noun_Lighthouse_241343" transform="translate(-5.9 -5.9)">
     <path id="Path_187" d="M60.1,68.8,56.5,31.7H43.6L40,66.4l-3-.3,3.9-37.4H59.3l3.8,39.8Z"/>
@@ -26,4 +26,8 @@ const Logo = ({ color = "#fff" }) => (
 </svg>
 )
 
-export default Logo
+export const ArrowDown = ({ color = "#fff" }) => (
+  <svg width="50" height="35" baseProfile="full" className="arrow arrow-down">
+    <polyline points="0, 0 25, 30 50, 0" fill="none" stroke={ color } pathLength="2" stroke-width="4" stroke-linejoin="round" />
+  </svg>
+)
