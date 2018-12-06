@@ -27,7 +27,7 @@ export const Logo = ({ color = "#fff" }) => (
 )
 
 export const ArrowDown = ({ color = "#fff" }) => (
-  <svg width="50" height="35" baseProfile="full" className="arrow arrow-down">
-    <polyline points="0, 0 25, 30 50, 0" fill="none" stroke={ color } pathLength="2" stroke-width="4" stroke-linejoin="round" />
+  <svg width="50" height="35" baseProfile="full" className={ style.arrow }>
+    <polyline points="0, 0 25, 30 50, 0" fill="none" stroke={ color } pathLength="2" strokeWidth="4" strokeLinejoin="round" />
   </svg>
 )

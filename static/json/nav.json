@@ -1,22 +1,27 @@
 [
     {
         "name": "Início",
-        "anchor": "#home"
+        "anchor": "#home",
+        "id": 1
     },
     {
         "name": "Sobre",
-        "anchor": "#about"
+        "anchor": "#about",
+        "id": 2
     },
     {
         "name": "Eventos",
-        "anchor": "#events"
+        "anchor": "#events",
+        "id": 3
     },
     {
         "name": "Apoiadores",
-        "anchor": "#sponsors"
+        "anchor": "#sponsors",
+        "id": 4
     },
     {
         "name": "Palestrantes",
-        "anchor": "#speakers"
+        "anchor": "#speakers",
+        "id": 5
     }
 ]
