@@ -13,7 +13,7 @@ class Header extends Component {
                     <Logo />
                     <Nav items={navigation} />
                 </div>
-                <h2 className={style.header__welcome}>Comunidade de Desenvolvedores <wbr /> Front-end do Estado do Ceará</h2>
+                <h2 className={style.header__welcome}>Comunidade de Desenvolvedores <br /> Front-end do Estado do Ceará</h2>
                 <ArrowDown />
             </header>
         )
