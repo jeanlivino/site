@@ -1,28 +1,12 @@
-.navigation {
-  display: flex;
-  height: 100%;
-}
-
 .menu {
-  list-style: none;
-  padding-left: 0;
-  height: 100%;
+  display: none;
 }
 
 @media (min-width: 768px) {
   .menu {
+    list-style: none;
+    padding-left: 0;
+
     display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    flex-direction: row;
   }
-}
-
-.menu__item {
-  margin: 0 10px;
-}
-
-.menu__item > a {
-  text-decoration: none;
-  color: #ffffff;
 }

@@ -1,0 +1,15 @@
+.logo {
+    width: 120px;
+    height: 120px;
+    filter: drop-shadow(0 0 20px #000)
+}
+
+.arrow {
+    margin-bottom: 10vh;
+}
+
+@media (min-width: 768px) {
+    .arrow {
+        margin-bottom: 2vmin;
+    }
+}

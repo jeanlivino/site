@@ -1,16 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import style from './nav.module.css'
+import NavItem from '../NavItem'
 
 const Nav = ({ items }) => (
   <nav className={style.navigation}>
     <ul className={style.menu}>
       {items.map((item) => (
-        <li className={style.menu__item} key={item.name}>
-          <a href={item.anchor}>
-          {item.name}
-          </a>
-        </li>
+        <NavItem anchor={ item.anchor } name={ item.name } key={ item.id } />
       ))
       }
     </ul>
