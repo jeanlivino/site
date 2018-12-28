@@ -7,7 +7,9 @@ const Nav = ({ items }) => (
     <ul className={style.menu}>
       {items.map((item) => (
         <li className={style.menu__item} key={item.name}>
+          <a href={item.anchor}>
           {item.name}
+          </a>
         </li>
       ))
       }

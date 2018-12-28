@@ -1,13 +1,11 @@
 .navigation {
-  height: 100vh;
+  display: flex;
+  height: 100%;
 }
 
 .menu {
   list-style: none;
   padding-left: 0;
-
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   height: 100%;
 }
 
@@ -22,4 +20,9 @@
 
 .menu__item {
   margin: 0 10px;
+}
+
+.menu__item > a {
+  text-decoration: none;
+  color: #ffffff;
 }
