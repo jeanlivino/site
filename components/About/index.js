@@ -3,7 +3,7 @@ import commonStyles from '../../static/css/style.css'
 import style from './about.module.css'
 
 const About = () => (
-  <section className={style.about}>
+  <section id="about" className={style.about}>
     <div className={commonStyles.container}>
       <h1 className="title">O Que é o Front-end CE</h1>
       <p className="description">
