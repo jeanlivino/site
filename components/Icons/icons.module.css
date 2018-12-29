@@ -6,10 +6,21 @@
 
 .arrow {
     margin-bottom: 10vh;
+    animation: bounce 3s forwards;
 }
 
 @media (min-width: 768px) {
     .arrow {
-        margin-bottom: 2vmin;
+        margin-bottom: 30px;
+    }
+}
+
+@keyframes bounce {
+    from {
+        top: -40px;
+    }
+
+    to {
+        top: 0;
     }
 }

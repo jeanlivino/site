@@ -1,11 +1,17 @@
 import React from 'react'
 import Link from 'next/link'
+import styled from 'styled-components'
+
+const LinkStyled = styled.a`
+  color: white;
+  cursor: pointer;
+`
 
 const NavItem = ({ anchor, name }) => (
     <Link href={anchor}>
-        <li key={name}>
+        <LinkStyled key={name}>
             {name}
-        </li>
+        </LinkStyled>
     </Link>
 )
 

@@ -21,7 +21,7 @@ class Toast extends Component {
 
         return (
             <aside className={`${style.toast} ${visible && style.toast__appears}`}>
-                ⚠️ Fique ligado(a): Dia 15 de Novembro vai rolar mais um evento nosso!
+                ⚠️ Fique ligado(a): Dia 22 de Novembro vai rolar mais um evento nosso!
                 <span className={ style.toast__close }></span>
             </aside>
         )
